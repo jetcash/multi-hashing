@@ -1,0 +1,21 @@
+{
+    "name": "multi-hashing",
+    "version": "0.0.1",
+    "main": "multihashing",
+    "author": {
+        "name": "Jetcash",
+        "email": "dev@jetcash.org"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jetcash/multi-hashing.git"
+    },
+    "dependencies" : {
+        "bindings" : "*"
+    },
+    "keywords": [
+        "cryptonight",
+        "cryptonote",
+        "jetcash"
+    ]
+}
